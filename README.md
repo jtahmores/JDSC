@@ -29,4 +29,4 @@ Noori Saray, S., Tahmoresnezhad, J. Joint distinct subspace learning and unsuper
 
 Jafar Tahmoresnezhad (tahmores@gmail.com)
 
-Shiva noori saray (shivanoorisaray@gmail.com)
+Shiva Noori Saray (shivanoorisaray@gmail.com)
