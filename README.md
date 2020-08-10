@@ -17,9 +17,9 @@ The original code is implemented using Matlab R2018a. For running the code, run 
 
 PIE*.mat:    features and labels related to PIE dataset
 
-MNIST_vs_USPS:    features and labels related to Digit dataset
+MNIST_vs_USPS.mat:    features and labels related to Digit dataset
 
-COIL1_vs_COIL2:    features and labels related to Coil dataset
+COIL1_vs_COIL2.mat:    features and labels related to Coil dataset
 
 # Reference
 
