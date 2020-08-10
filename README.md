@@ -9,7 +9,7 @@ In many real-world knowledge transfer and transfer learning scenarios, the known
 
 # RUN
 
-The original code is implemented using Matlab R2018a. For running the code, run the "office.m", "piedemo.m", "demomnist_usps" and "coildemo.m " files.
+The original code is implemented using Matlab R2018a. For running the code, run the "office.m", "piedemo.m", "demomnist_usps.m" and "coildemo.m " files.
 
 # Datasets
 
